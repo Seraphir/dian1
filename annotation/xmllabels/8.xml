@@ -1,0 +1,32 @@
+<annotation>
+	<source>
+		<filename>8.tif</filename>
+		<origin>GF2/GF3</origin>
+	</source>
+	<research>
+		<version>4.0</version>
+		<provider>Company/School of team</provider>
+		<author>team name</author>
+		<pluginname>Airplane Detection and Recognition</pluginname>
+		<pluginclass>Detection</pluginclass>
+		<time>2020-07-2020-11</time>
+	</research>
+	<objects>
+		<object>
+			<coordinate>pixel</coordinate>
+			<type>rectangle</type>
+			<description>None</description>
+			<possibleresult>
+				<name>A321</name>
+				<probability>1</probability>
+			</possibleresult>
+			<points>
+				<point>108.000000,35.000000</point>
+				<point>150.000000,72.000000</point>
+				<point>181.000000,37.000000</point>
+				<point>138.000000,0.000000</point>
+				<point>108.000000,35.000000</point>
+			</points>
+		</object>
+	</objects>
+</annotation>
